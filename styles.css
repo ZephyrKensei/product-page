@@ -8,3 +8,26 @@ body {
 	font-size: 16px;
 	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+button {
+  background: #333;;
+  border: 0;
+	padding: 10px 20px;
+	color: white;
+	border-radius: 5px;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: #495fef;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
