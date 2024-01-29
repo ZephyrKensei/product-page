@@ -167,7 +167,7 @@ a {
   text-align: right;
 }
 
-/* @media (max-width: 700px) {
+@media (max-width: 700px) {
   .hero {
     grid-template-areas:
       "hero hero"
@@ -176,11 +176,6 @@ a {
 
   .hero--header {
     min-height: 300px;
-  }
-
-  .skate1,
-  .skate2 {
-    text-align: center;
   }
 
   .learn-more,
@@ -197,4 +192,4 @@ a {
   .learn-more-alt .about__details {
     text-align: center;
   }
-} */
+}
